@@ -1,0 +1,15 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time",
+        "depth",
+        "latitude",
+        "longitude"
+    ],
+    "cell_methods": "area: mean",
+    "long_name": "Eastward velocity",
+    "standard_name": "eastward_sea_water_velocity",
+    "unit_long": "Meters per second",
+    "units": "m s-1",
+    "valid_max": 2.6331369876861572,
+    "valid_min": -1.9061861038208008
+}

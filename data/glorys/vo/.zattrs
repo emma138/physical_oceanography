@@ -1,0 +1,15 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time",
+        "depth",
+        "latitude",
+        "longitude"
+    ],
+    "cell_methods": "area: mean",
+    "long_name": "Northward velocity",
+    "standard_name": "northward_sea_water_velocity",
+    "unit_long": "Meters per second",
+    "units": "m s-1",
+    "valid_max": 2.221137046813965,
+    "valid_min": -2.2461624145507812
+}
