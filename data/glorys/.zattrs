@@ -1,0 +1,13 @@
+{
+    "Conventions": "CF-1.11",
+    "comment": "CMEMS product",
+    "history": "2023/06/01 16:20:05 MERCATOR OCEAN Netcdf creation",
+    "institution": "MERCATOR OCEAN",
+    "references": "http://www.mercator-ocean.fr",
+    "source": "MERCATOR GLORYS12V1",
+    "subset:datasetId": "cmems_mod_glo_phy_my_0.083deg_P1D-m_202311",
+    "subset:date": "2025-09-22T15:29:03.560Z",
+    "subset:productId": "GLOBAL_MULTIYEAR_PHY_001_030",
+    "subset:source": "ARCO data downloaded from the Marine Data Store using the MyOcean Data Portal",
+    "title": "daily mean fields from Global Ocean Physics Analysis and Forecast updated Daily"
+}
